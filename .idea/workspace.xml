@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c103874d-e75a-48ec-86ca-fbbecec3f456" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/car_sales_data_mastery_challange_query.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/car_sales_data_mastery_challange_query.sql" afterDir="false" />
-    </list>
+    <list default="true" id="c103874d-e75a-48ec-86ca-fbbecec3f456" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,13 +71,35 @@
       <option name="project" value="LOCAL" />
       <updated>1663155288609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final commit">
+      <created>1663174386274</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663174386274</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="changed source and target version from 18 to  11" />
     <MESSAGE value="created the file car_sales_data_mastery_challange_query in resources folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the file car_sales_data_mastery_challange_query in resources folder" />
+    <MESSAGE value="completed sql Query as per the tasks given" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed sql Query as per the tasks given" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

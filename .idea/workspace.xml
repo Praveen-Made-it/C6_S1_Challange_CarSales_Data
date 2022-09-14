@@ -14,6 +14,12 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
@@ -78,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663174386274</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="removed extra lines in the file">
+      <created>1663174743922</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663174743922</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,7 +110,8 @@
     <MESSAGE value="changed source and target version from 18 to  11" />
     <MESSAGE value="created the file car_sales_data_mastery_challange_query in resources folder" />
     <MESSAGE value="completed sql Query as per the tasks given" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed sql Query as per the tasks given" />
+    <MESSAGE value="removed extra lines in the file" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed extra lines in the file" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
